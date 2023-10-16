@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/github.io/finalReactAppl/static/css/main.d2f13248.css",
-    "main.js": "/github.io/finalReactAppl/static/js/main.b5fde3ea.js",
+    "main.js": "/github.io/finalReactAppl/static/js/main.a772d3c1.js",
     "static/js/787.b2f652a1.chunk.js": "/github.io/finalReactAppl/static/js/787.b2f652a1.chunk.js",
     "static/media/fa-solid-900.ttf": "/github.io/finalReactAppl/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
     "static/media/slider-image-1.jpeg": "/github.io/finalReactAppl/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
@@ -24,11 +24,11 @@
     "static/media/slick.woff": "/github.io/finalReactAppl/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/github.io/finalReactAppl/index.html",
     "main.d2f13248.css.map": "/github.io/finalReactAppl/static/css/main.d2f13248.css.map",
-    "main.b5fde3ea.js.map": "/github.io/finalReactAppl/static/js/main.b5fde3ea.js.map",
+    "main.a772d3c1.js.map": "/github.io/finalReactAppl/static/js/main.a772d3c1.js.map",
     "787.b2f652a1.chunk.js.map": "/github.io/finalReactAppl/static/js/787.b2f652a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2f13248.css",
-    "static/js/main.b5fde3ea.js"
+    "static/js/main.a772d3c1.js"
   ]
 }
