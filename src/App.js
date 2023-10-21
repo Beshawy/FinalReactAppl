@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { RouterProvider, createBrowserRouter } from 'react-router-dom';
+import { RouterProvider, createBrowserRouter, createHashRouter } from 'react-router-dom';
 import Home from './components/Home/Home'
 import Cart from './components/Cart/Cart'
 import Brands from './components/Brands/Brands'
@@ -23,7 +23,7 @@ import SpecificBrand from './components/specificBrand/SpecificBrand';
 import SpecificCategory from './components/specificCategory/SpecificCategory';
 import Profile from './components/Profile/Profile';
 
-let routers = createBrowserRouter([
+let routers = createHashRouter([
   {path:'/' , element:<Layout/> , children:[
     {index:`/` ,element:<ProtectedRoute><Home/></ProtectedRoute> },
     {path:'Cart' ,element:<ProtectedRoute><Cart/></ProtectedRoute> },
